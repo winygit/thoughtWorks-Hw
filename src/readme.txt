@@ -28,9 +28,15 @@ homework：
     
   ProgramMain：程序入口
   
+代码已上传GitHub。 
+  GitHub地址: https://github.com/winygit/thoughtWorks-Hw.git     
+  
 
 程序运行说明：
    可使用程序提供的ScannerInput或 TextFileInput输入数据，使用后者需要指明输入文件绝对地址。
    程序的输出将打印在控制台（时间关系，目前仅提供了这一种实现）。
+   
+   
+
    
     
